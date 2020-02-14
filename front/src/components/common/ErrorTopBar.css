@@ -1,0 +1,13 @@
+.errorBar {
+  background-color: rgba(212, 24, 24, 0.829);
+  height: 100px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.errorMessage {
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
